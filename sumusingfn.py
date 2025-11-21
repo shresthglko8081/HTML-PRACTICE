@@ -11,4 +11,4 @@ def multiply(s,t):
 print("The product of two numbers is : ",multiply(s,t))
 def divide(s,t):
     return (s/t)
-print("The division of two numbers is : ",divide(s,t))The total output is:
+print("The division of two numbers is : ",divide(s,t))
